@@ -1,5 +1,12 @@
-TOH = 5
-hahahah = 6
+"""[summary]
+"""
+def shag():
+    """[summary]
 
-def Shag():
-    return 5    
+    Returns:
+        [type]: [description]
+    """
+    return 5
+
+TOH = 5
+x = input()
